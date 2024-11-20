@@ -1,0 +1,46 @@
+/***
+Autor: Diana Esmeralda Ortiz Cervantes
+Fecha: 20/11/2024
+Lenguaje html
+Fuente: local
+Examen
+***/
+.Cuerpo00 {
+
+    background-color: rgb(0, 255, 30);
+    color: black;
+}
+
+.Cuerpo01 {
+
+    background-color: rgb(0, 47, 255);
+    color: blueviolet;
+
+}
+
+.Cuerpo02 {
+
+    background-color: rgb(0, 166, 255);               /*** cada uno se relaciona con el cuerpo que va a cambiar de color de cada fondo y letra***/
+    color: rgb(255, 0, 0);
+
+}
+
+.Cuerpo03 {
+
+    background-color: rgb(83, 128, 0);
+    color: azure;
+
+}
+
+.Cuerpo04 {
+
+    background-color: black;
+    color: rgb(165, 42, 157);
+
+}
+
+
+/*** Diana Esmeralda Ortiz Cervantes ***/
+/***Universidad Autonoma de Durango ***/
+/***Diseño de la comunicacion grafica ***/
+/***Diseño web ***/
